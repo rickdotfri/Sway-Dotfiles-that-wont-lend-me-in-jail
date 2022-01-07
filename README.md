@@ -1,11 +1,11 @@
 # My Sway Dotfiles
-Uhh.. Hi, this is my first repositery and i'm learning that how do i use github.
+Uhh.. Hi, this is my first repository and i'm learning that how do i use Github.
 
 Requirements
 
 - Sway (Window Manager)
 - Thunar (file manager)
-- Alacritty (terminal
+- Alacritty (terminal)
 - Kanshi (It helps you to make resulotion settings)
 - Neofetch (Because why not)
  
