@@ -11,4 +11,4 @@ Software That I Use:
 - WayBar (Its like polybar but it made for wayland)
 - Rofi (lbonn's fork because that fork supports wayland)
 - Firefox (Browser)
- I'll Add photos about it when it's done. Bye 4 Now! (2022-01-07)
+ --I'll Add photos about it when it's done. Bye 4 Now! (2022-01-07)
