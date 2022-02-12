@@ -9,7 +9,7 @@ Software That I Use:
 - **Alacritty** (terminal)
 - [Kanshi](https://github.com/emersion/kanshi) (It helps you to make resulotion settings)
 - **Neofetch** (I don't want to explain neofetch. Probably you've already known what it is)
-- **WayBar** (Its like polybar but it made for wayland)
+- **WayBar** (Its like polybar but it has been made for wayland)
 - [Rofi](https://github.com/lbonn/rofi) (**lbonn's fork** because that fork supports wayland)
 - **Firefox** (Browser) (Note for firefox: If you want execute firefox without xwayland watch this video from 4.20 to 5.30 https://youtu.be/hRIGYUWQfYU)
 - **SDDM** (Display Manager)
